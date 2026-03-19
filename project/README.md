@@ -1,5 +1,6 @@
 # React + Vite
-# React can be a "what a draaaaagggg " sometimes
+# React can be a "what a draaaaagggg " sometimes 
+# But that is just a intersing "what a drag
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
